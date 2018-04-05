@@ -291,14 +291,12 @@ This is starting point for you to know the options available to write your class
 ## References
 - [HTTP Status Codes Reference](https://httpstatuses.com/)
 
-## Contributing
-[Pull Requests](https://github.com/yosriady/api-development-tools/pulls) are most welcome!
 
 Please write a brief one-sentence summary when adding a new resource.
 
 ## Thanks
-**api-development-tools** © 2016+, Yos Riady. Released under the [MIT] License.<br>
-Authored and maintained by Yos Riady with help from contributors ([list][contributors]).
+**awesome-api-management** © 2018+, Harshit Pandey. Released under the [MIT] License.<br>
+Authored and maintained by Harshit with open help from contributors.
 
 > [Harshit Linkedin](https://www.linkedin.com/in/pandeyharshit/) &nbsp;&middot;&nbsp;
 > GitHub [@mailtoharshit](https://github.com/mailtharshit)
