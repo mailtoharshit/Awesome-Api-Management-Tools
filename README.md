@@ -300,8 +300,7 @@ Please write a brief one-sentence summary when adding a new resource.
 **api-development-tools** © 2016+, Yos Riady. Released under the [MIT] License.<br>
 Authored and maintained by Yos Riady with help from contributors ([list][contributors]).
 
-> [yos.io](https://yos.io) &nbsp;&middot;&nbsp;
-> GitHub [@yosriady](https://github.com/yosriady)
+> [Harshit Linkedin](https://www.linkedin.com/in/pandeyharshit/) &nbsp;&middot;&nbsp;
+> GitHub [@mailtoharshit](https://github.com/mailtharshit)
 
 [MIT]: https://mit-license.org/
-[contributors]: https://github.com/yosriady/api-development-tools/contributors
