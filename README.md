@@ -184,6 +184,7 @@ This is starting point for you to know the options available to write your class
 ### Hosted
 - [Hurl.it](https://www.hurl.it/): Web-based HTTP client.
 - [JSON Generator](http://www.json-generator.com/): Generate and host mock JSON data.
+- [Extends Class](https://extendsclass.com/rest-client-online.html): Online REST client.
 
 ### Desktop
 - [HTTPie](https://httpie.org/): Command line HTTP client.
