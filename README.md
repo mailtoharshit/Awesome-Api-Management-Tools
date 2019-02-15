@@ -200,7 +200,7 @@ This is starting point for you to know the options available to write your class
 ### Hosted
 - [Beeceptor](https://beeceptor.com): An HTTP-proxy for rest APIs - inspect and build mock APIs.
 - [MockBin](https://mockbin.com/): Generate mock HTTP endpoints.
-- [RequestBin](https://requestb.in/): Inspect and debug webhook POST requests.
+- [RequestBin](https://requestbin.com/): Inspect and debug webhook POST requests.
 - [httpbin](http://httpbin.org): Templated responses for testing various scenarios for HTTP requests.
 
 ### Desktop 
