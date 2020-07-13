@@ -254,7 +254,7 @@ This is starting point for you to know the options available to write your class
 
 ## API Monitoring
 - [Runscope](https://www.runscope.com/): API Performance Monitoring.
-- [Galileo](https://getgalileo.io/): API Monitoring Platform.
+- [Moesif](https://www.moesif.com/): Understand API Usage and Monitor API KPIs.
 - [Ping-API](https://ping-api.com/): Automated API Testing.
 
 ## API Testing
@@ -288,6 +288,10 @@ This is starting point for you to know the options available to write your class
 
 ## Blogs
 - [API Evangelist](http://apievangelist.com/blog/)
+- [Moesif Blog](https://www.moesif.com/blog/)
+- [Nordic APIs](https://nordicapis.com/)
+- [Programmable Web](https://www.programmableweb.com/)
+- [APIHandyman](https://apihandyman.io/)
 
 ## References
 - [HTTP Status Codes Reference](https://httpstatuses.com/)
