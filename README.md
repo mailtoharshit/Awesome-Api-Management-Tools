@@ -65,6 +65,7 @@ This is starting point for you to know the options available to write your class
 - [Django REST framework](http://www.django-rest-framework.org/): Toolkit that makes it easy to build Web APIs.
 - [Tastypie](https://github.com/django-tastypie/django-tastypie): Webservice API framework for Django.
 - [restless](https://github.com/toastdriven/restless): A lightweight REST miniframework for Python.
+- [FastAPI](https://fastapi.tiangolo.com): FastAPI is a high-performance framework for building APIs in Python 3.6+, based on standard Python type hints.
 - [flask-restful](https://github.com/flask-restful/flask-restful): Simple framework for creating REST APIs.
 - [Falcon](https://github.com/falconry/falcon): Falcon is a low-level, high-performance Python framework for building HTTP APIs, app backends, and higher-level frameworks.
 - [Connexion](https://github.com/zalando/connexion): Swagger/OpenAPI First framework for Python on top of Flask with automatic endpoint validation and OAuth2 support
