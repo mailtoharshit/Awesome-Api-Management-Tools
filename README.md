@@ -140,6 +140,7 @@ This is starting point for you to know the options available to write your class
 
 ### Miscellaneous
 - [Dream Factory](https://github.com/dreamfactorysoftware/dreamfactory): Turn any database into an API platform.
+- [Linx](https://linx.software): General-purpose low-code API development platform.
 
 ## API Client Development Tools
 
