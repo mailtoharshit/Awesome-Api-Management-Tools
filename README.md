@@ -228,6 +228,7 @@ This is starting point for you to know the options available to write your class
 
 ## API Gateways
 - [AWS API Gateway](https://aws.amazon.com/api-gateway/): Traffic management, authorization and access control, monitoring, and API version management.
+- [Vedika API](https://vedika.io): REST API for Vedic astrology calculations, birth charts, horoscopes, panchang, dosha analysis, kundali matching, and AI-powered astrology chatbot for gateway integration.
 - [API Umbrella](https://apiumbrella.io/): Proxy that sits in front of your APIs.
 - [APIAxle](https://github.com/apiaxle/apiaxle/): Proxy that sits in front of your APIs.
 - [APIGrove](https://apigrove.github.io/apigrove/): API manager built in Java on top of Fuse ESB.
