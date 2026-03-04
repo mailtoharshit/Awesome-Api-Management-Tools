@@ -256,6 +256,7 @@ This is starting point for you to know the options available to write your class
 - [Runscope](https://www.runscope.com/): API Performance Monitoring.
 - [Moesif](https://www.moesif.com/): Understand API Usage and Monitor API KPIs.
 - [Ping-API](https://ping-api.com/): Automated API Testing.
+- [API Status Check](https://apistatuscheck.com): Free real-time status monitoring dashboard for 114+ developer APIs including AWS, Stripe, GitHub, and OpenAI.
 
 ## API Testing
 - [Assertible](https://assertible.com): Continuously test and monitor your APIs after deployments and across environments.
