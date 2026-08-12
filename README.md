@@ -232,6 +232,7 @@ This is starting point for you to know the options available to write your class
 - [APIAxle](https://github.com/apiaxle/apiaxle/): Proxy that sits in front of your APIs.
 - [APIGrove](https://apigrove.github.io/apigrove/): API manager built in Java on top of Fuse ESB.
 - [Apigee127](https://github.com/apigee-127/a127-documentation/wiki/What-is-Apigee-127): nodejs based API Gateway
+- [Apigee-Lab](https://github.com/SunnyJayaRaju/Apigee-Lab): Enterprise Apigee X API gateway implementations - OAuth 2.0 Client Credentials, JWT auth, spike arrest, rate limiting, API composition, Shared Flows and CI/CD pipeline.
 - [Pushpin](http://pushpin.org): Proxy for both request/response or streaming (long poll) of responses
 - [Strongloop](https://github.com/strongloop/microgateway): nodejs based API Gateway
 - [Fusio](http://www.fusio-project.org/): PHP based open source API management platform
