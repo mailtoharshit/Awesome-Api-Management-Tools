@@ -261,6 +261,7 @@ This is starting point for you to know the options available to write your class
 - [Assertible](https://assertible.com): Continuously test and monitor your APIs after deployments and across environments.
 - [Pyresttest](https://github.com/svanoort/pyresttest): YAML based REST testing and API microbenchmarking tool
 - [OWASP Zaproxy](https://github.com/zaproxy/zaproxy): A tool to test your API for known security vulnerabilities, with a great CI integration.
+- [Keploy](https://keploy.io/): Open-source API testing platform that automatically generates test cases and data mocks from real traffic - no coding required.
 
 ## JSON Format Standards
 - [HAL](http://stateless.co/hal_specification.html)
